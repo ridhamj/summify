@@ -4,4 +4,5 @@ Summify is a summarization tool designed to help users quickly generate concise 
 ![ScreenShot](src/assets/screenshot.png)
 
 Technology Stack - ReactJS, OpenAI, ChakraUI.
+
 Summify can be a useful tool for researchers, students, journalists, and anyone else who needs to quickly understand the main points of a lengthy document.
